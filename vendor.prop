@@ -156,3 +156,7 @@ ro.vendor.sensors.mot_detect=true
 
 # Time
 persist.vendor.delta_time.enable=true
+
+# SOC
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SDM660
