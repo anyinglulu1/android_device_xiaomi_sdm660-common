@@ -452,6 +452,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0-service.xiaomi_sdm660.qti
 
+# TinyXML
+PRODUCT_PACKAGES += \
+    libtinyxml
+
 # Vibrator
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service
