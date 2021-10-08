@@ -415,9 +415,6 @@ PRODUCT_PACKAGES += \
     rild \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
-    telephony-ext
-
 # Neural Networks
 PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.2 \
