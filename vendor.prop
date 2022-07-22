@@ -159,4 +159,4 @@ persist.vendor.delta_time.enable=true
 
 # Set system properties identifying the chipset
 ro.soc.manufacturer=QTI
-ro.soc.model=SDM6600
+ro.soc.model=SDM660
